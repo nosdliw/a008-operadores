@@ -6,4 +6,6 @@ let resultado2 = number2 % number1
 console.log (number1 > number2 )
 console.log (number1 <= number2)
 console.log (resultado1 === 0 )
-console.log (resultado2 !== 0)
+console.log (resultado2 !== 0) 
+
+//feito.
